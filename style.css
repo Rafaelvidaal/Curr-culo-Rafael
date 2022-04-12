@@ -1,0 +1,27 @@
+.foto-perfil{
+  border-radius: 100%;
+  max-width: 200px;
+  border: 1px solid black;
+}
+
+body{
+  background-color: #cfc9c9;
+}
+
+ body{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  }
+  body{
+    width: 100%;
+    color: 	#069;
+    text-align: center;
+    min-height: 100vh;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
